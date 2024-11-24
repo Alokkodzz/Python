@@ -1,0 +1,38 @@
+2024-11-24 10:53:39,353 - Starting the process to zip old CSV files.
+2024-11-24 10:53:39,353 - File found and moving the file H:\\alok.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 10:53:39,353 - File found and moving the file H:\\file.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 10:53:39,385 - File found and moving the file H:\\file2.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 10:53:39,385 - File found and moving the file H:\\file3.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 10:53:39,385 - File found and moving the file H:\\file4.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 10:53:39,385 - File found and moving the file H:\\alok\alok.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 10:53:39,385 - File found and moving the file H:\\alok\file.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 10:53:39,400 - File found and moving the file H:\\alok\file2.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 10:53:39,400 - File found and moving the file H:\\alok\file3.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 10:53:39,400 - File found and moving the file H:\\alok\file4.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 10:53:39,416 - Archive Function completed.
+2024-11-24 10:53:39,416 - ['10_file4.csv', '1_alok.csv', '2_file.csv', '3_file2.csv', '4_file3.csv', '5_file4.csv', '6_alok.csv', '7_file.csv', '8_file2.csv', '9_file3.csv']
+2024-11-24 10:53:39,416 - 10_file4.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 10:53:39,416 - Deleted 10_file4.csv after zipping.
+2024-11-24 10:53:39,431 - 1_alok.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 10:53:39,431 - Deleted 1_alok.csv after zipping.
+2024-11-24 10:53:39,431 - 2_file.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 10:53:39,431 - Deleted 2_file.csv after zipping.
+2024-11-24 10:53:39,431 - 3_file2.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 10:53:39,431 - Deleted 3_file2.csv after zipping.
+2024-11-24 10:53:39,431 - 4_file3.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 10:53:39,431 - Deleted 4_file3.csv after zipping.
+2024-11-24 10:53:39,447 - 5_file4.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 10:53:39,447 - Deleted 5_file4.csv after zipping.
+2024-11-24 10:53:39,447 - 6_alok.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 10:53:39,447 - Deleted 6_alok.csv after zipping.
+2024-11-24 10:53:39,463 - 7_file.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 10:53:39,463 - Deleted 7_file.csv after zipping.
+2024-11-24 10:53:39,463 - 8_file2.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 10:53:39,463 - Deleted 8_file2.csv after zipping.
+2024-11-24 10:53:39,463 - 9_file3.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 10:53:39,463 - Deleted 9_file3.csv after zipping.
+2024-11-24 10:53:39,463 - All the 15 days old csv files added into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip
+2024-11-24 10:53:39,463 - Function zip completed
+2024-11-24 10:53:39,541 - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-24 10:53:41,585 - File 'E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip' successfully uploaded to 'csvfilecleanupalok/archived_csv_files_2024-11-24_10-53-39.zip'.
+2024-11-24 10:53:43,084 - Email sent!, Task completed
