@@ -20,7 +20,7 @@ def create_sql_file(archived_files_data, archived_files_data_zip, sql_file_path)
             sql_file.write("    original_path TEXT,\n")
             sql_file.write("    new_path TEXT,\n")
             sql_file.write("    file_time_details TEXT,\n")
-            sql_file.write("    object_name TEXT,\n")
+            sql_file.write("    object_name TEXT\n")
             sql_file.write(");\n\n")
 
             
@@ -32,7 +32,7 @@ def create_sql_file(archived_files_data, archived_files_data_zip, sql_file_path)
                 for zip_file_data in archived_files_data_zip:
                     archived_file = zip_file_data['object_name']
 
-                    sql_file.write(f"INSERT INTO archived_files (file_name, original_path, new_path, file_time_details) VALUES ")
+                    sql_file.write(f"INSERT INTO archived_files (file_name, original_path, new_path, file_time_details, object_name) VALUES ")
                     sql_file.write(f"('{file_name}', '{original_path}', '{new_path}', '{file_time_details}', '{archived_file}');\n")
 
 
