@@ -1,0 +1,1044 @@
+2024-11-24 09:04:36,447 - Starting the process to zip old CSV files.
+2024-11-24 09:04:36,447 - File found and moving the file H:\\alok.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:04:36,478 - File found and moving the file H:\\file.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:04:36,478 - File found and moving the file H:\\file2.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:04:36,478 - File found and moving the file H:\\file3.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:04:36,478 - File found and moving the file H:\\file4.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:04:36,478 - No CSV file found to archive
+2024-11-24 09:04:36,478 - No CSV file found to archive
+2024-11-24 09:04:36,478 - No CSV file found to archive
+2024-11-24 09:04:36,478 - No CSV file found to archive
+2024-11-24 09:04:36,478 - No CSV file found to archive
+2024-11-24 09:04:36,478 - No CSV file found to archive
+2024-11-24 09:04:36,478 - No CSV file found to archive
+2024-11-24 09:04:36,478 - No CSV file found to archive
+2024-11-24 09:04:36,493 - File found and moving the file H:\\files\alok.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:04:36,493 - File found and moving the file H:\\files\file.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:04:36,493 - File found and moving the file H:\\files\file2.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:04:36,493 - File found and moving the file H:\\files\file3.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:04:36,493 - File found and moving the file H:\\files\file4.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:04:36,493 - File found and moving the file H:\\files\alok\alok.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:04:36,493 - File found and moving the file H:\\files\alok\file.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:04:36,493 - File found and moving the file H:\\files\alok\file2.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:04:36,493 - File found and moving the file H:\\files\alok\file3.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:04:36,493 - File found and moving the file H:\\files\alok\file4.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:04:36,493 - No CSV file found to archive
+2024-11-24 09:04:36,493 - No CSV file found to archive
+2024-11-24 09:04:36,493 - No CSV file found to archive
+2024-11-24 09:04:36,493 - No CSV file found to archive
+2024-11-24 09:04:36,493 - No CSV file found to archive
+2024-11-24 09:04:36,493 - No CSV file found to archive
+2024-11-24 09:04:36,493 - No CSV file found to archive
+2024-11-24 09:04:36,493 - No CSV file found to archive
+2024-11-24 09:04:36,493 - No CSV file found to archive
+2024-11-24 09:04:36,493 - No CSV file found to archive
+2024-11-24 09:04:36,493 - No CSV file found to archive
+2024-11-24 09:04:36,493 - No CSV file found to archive
+2024-11-24 09:04:36,493 - No CSV file found to archive
+2024-11-24 09:04:36,493 - No CSV file found to archive
+2024-11-24 09:04:36,493 - No CSV file found to archive
+2024-11-24 09:04:36,493 - No CSV file found to archive
+2024-11-24 09:04:36,493 - No CSV file found to archive
+2024-11-24 09:04:36,493 - No CSV file found to archive
+2024-11-24 09:04:36,493 - No CSV file found to archive
+2024-11-24 09:04:36,493 - No CSV file found to archive
+2024-11-24 09:04:36,493 - No CSV file found to archive
+2024-11-24 09:04:36,493 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,509 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - No CSV file found to archive
+2024-11-24 09:04:36,525 - File found and moving the file H:\\test\alok.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:04:36,540 - File found and moving the file H:\\test\file.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:04:36,540 - File found and moving the file H:\\test\file2.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:04:36,540 - File found and moving the file H:\\test\file3.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:04:36,540 - File found and moving the file H:\\test\file4.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:04:36,540 - Archive Function completed.
+2024-11-24 09:04:36,557 - 2024-11-24_09-04-36_alok.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:04:36,558 - Deleted 2024-11-24_09-04-36_alok.csv after zipping.
+2024-11-24 09:04:36,561 - 2024-11-24_09-04-36_file.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:04:36,561 - Deleted 2024-11-24_09-04-36_file.csv after zipping.
+2024-11-24 09:04:36,562 - 2024-11-24_09-04-36_file2.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:04:36,562 - Deleted 2024-11-24_09-04-36_file2.csv after zipping.
+2024-11-24 09:04:36,562 - 2024-11-24_09-04-36_file3.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:04:36,562 - Deleted 2024-11-24_09-04-36_file3.csv after zipping.
+2024-11-24 09:04:36,562 - 2024-11-24_09-04-36_file4.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:04:36,562 - Deleted 2024-11-24_09-04-36_file4.csv after zipping.
+2024-11-24 09:04:36,562 - All the 15 days old csv files added into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip
+2024-11-24 09:04:36,570 - Function zip completed
+2024-11-24 09:04:36,714 - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-24 09:04:39,872 - File 'E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip' successfully uploaded to 'csvfilecleanupalok/archived_csv_files_2024-11-24_09-04-36.zip'.
+2024-11-24 09:59:03,974 - Starting the process to zip old CSV files.
+2024-11-24 09:59:04,052 - File found and moving the file H:\\alok.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:59:04,052 - ['1_alok.csv']
+2024-11-24 09:59:04,067 - File found and moving the file H:\\file.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:59:04,067 - ['1_alok.csv', '2_file.csv']
+2024-11-24 09:59:04,067 - File found and moving the file H:\\file2.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:59:04,067 - ['1_alok.csv', '2_file.csv', '3_file2.csv']
+2024-11-24 09:59:04,067 - File found and moving the file H:\\file3.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:59:04,067 - ['1_alok.csv', '2_file.csv', '3_file2.csv', '4_file3.csv']
+2024-11-24 09:59:04,067 - File found and moving the file H:\\file4.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:59:04,067 - ['1_alok.csv', '2_file.csv', '3_file2.csv', '4_file3.csv', '5_file4.csv']
+2024-11-24 09:59:04,067 - No CSV file found to archive
+2024-11-24 09:59:04,067 - No CSV file found to archive
+2024-11-24 09:59:04,067 - No CSV file found to archive
+2024-11-24 09:59:04,067 - No CSV file found to archive
+2024-11-24 09:59:04,067 - No CSV file found to archive
+2024-11-24 09:59:04,067 - No CSV file found to archive
+2024-11-24 09:59:04,067 - No CSV file found to archive
+2024-11-24 09:59:04,067 - No CSV file found to archive
+2024-11-24 09:59:04,099 - File found and moving the file H:\\files\alok.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:59:04,099 - ['1_alok.csv', '2_file.csv', '3_file2.csv', '4_file3.csv', '5_file4.csv', '6_alok.csv']
+2024-11-24 09:59:04,099 - File found and moving the file H:\\files\file.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:59:04,099 - ['1_alok.csv', '2_file.csv', '3_file2.csv', '4_file3.csv', '5_file4.csv', '6_alok.csv', '7_file.csv']
+2024-11-24 09:59:04,099 - File found and moving the file H:\\files\file2.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:59:04,099 - ['1_alok.csv', '2_file.csv', '3_file2.csv', '4_file3.csv', '5_file4.csv', '6_alok.csv', '7_file.csv', '8_file2.csv']
+2024-11-24 09:59:04,099 - File found and moving the file H:\\files\file3.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:59:04,099 - ['1_alok.csv', '2_file.csv', '3_file2.csv', '4_file3.csv', '5_file4.csv', '6_alok.csv', '7_file.csv', '8_file2.csv', '9_file3.csv']
+2024-11-24 09:59:04,099 - File found and moving the file H:\\files\file4.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:59:04,099 - ['10_file4.csv', '1_alok.csv', '2_file.csv', '3_file2.csv', '4_file3.csv', '5_file4.csv', '6_alok.csv', '7_file.csv', '8_file2.csv', '9_file3.csv']
+2024-11-24 09:59:04,099 - File found and moving the file H:\\files\alok\alok.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:59:04,099 - ['10_file4.csv', '11_alok.csv', '1_alok.csv', '2_file.csv', '3_file2.csv', '4_file3.csv', '5_file4.csv', '6_alok.csv', '7_file.csv', '8_file2.csv', '9_file3.csv']
+2024-11-24 09:59:04,099 - File found and moving the file H:\\files\alok\file.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:59:04,099 - ['10_file4.csv', '11_alok.csv', '12_file.csv', '1_alok.csv', '2_file.csv', '3_file2.csv', '4_file3.csv', '5_file4.csv', '6_alok.csv', '7_file.csv', '8_file2.csv', '9_file3.csv']
+2024-11-24 09:59:04,099 - File found and moving the file H:\\files\alok\file2.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:59:04,099 - ['10_file4.csv', '11_alok.csv', '12_file.csv', '13_file2.csv', '1_alok.csv', '2_file.csv', '3_file2.csv', '4_file3.csv', '5_file4.csv', '6_alok.csv', '7_file.csv', '8_file2.csv', '9_file3.csv']
+2024-11-24 09:59:04,114 - File found and moving the file H:\\files\alok\file3.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:59:04,114 - ['10_file4.csv', '11_alok.csv', '12_file.csv', '13_file2.csv', '14_file3.csv', '1_alok.csv', '2_file.csv', '3_file2.csv', '4_file3.csv', '5_file4.csv', '6_alok.csv', '7_file.csv', '8_file2.csv', '9_file3.csv']
+2024-11-24 09:59:04,114 - File found and moving the file H:\\files\alok\file4.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:59:04,114 - ['10_file4.csv', '11_alok.csv', '12_file.csv', '13_file2.csv', '14_file3.csv', '15_file4.csv', '1_alok.csv', '2_file.csv', '3_file2.csv', '4_file3.csv', '5_file4.csv', '6_alok.csv', '7_file.csv', '8_file2.csv', '9_file3.csv']
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,114 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,130 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,146 - No CSV file found to archive
+2024-11-24 09:59:04,161 - File found and moving the file H:\\test\alok.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:59:04,161 - ['10_file4.csv', '11_alok.csv', '12_file.csv', '13_file2.csv', '14_file3.csv', '15_file4.csv', '16_alok.csv', '1_alok.csv', '2_file.csv', '3_file2.csv', '4_file3.csv', '5_file4.csv', '6_alok.csv', '7_file.csv', '8_file2.csv', '9_file3.csv']
+2024-11-24 09:59:04,161 - File found and moving the file H:\\test\file.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:59:04,161 - ['10_file4.csv', '11_alok.csv', '12_file.csv', '13_file2.csv', '14_file3.csv', '15_file4.csv', '16_alok.csv', '17_file.csv', '1_alok.csv', '2_file.csv', '3_file2.csv', '4_file3.csv', '5_file4.csv', '6_alok.csv', '7_file.csv', '8_file2.csv', '9_file3.csv']
+2024-11-24 09:59:04,161 - File found and moving the file H:\\test\file2.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:59:04,161 - ['10_file4.csv', '11_alok.csv', '12_file.csv', '13_file2.csv', '14_file3.csv', '15_file4.csv', '16_alok.csv', '17_file.csv', '18_file2.csv', '1_alok.csv', '2_file.csv', '3_file2.csv', '4_file3.csv', '5_file4.csv', '6_alok.csv', '7_file.csv', '8_file2.csv', '9_file3.csv']
+2024-11-24 09:59:04,161 - File found and moving the file H:\\test\file3.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:59:04,161 - ['10_file4.csv', '11_alok.csv', '12_file.csv', '13_file2.csv', '14_file3.csv', '15_file4.csv', '16_alok.csv', '17_file.csv', '18_file2.csv', '19_file3.csv', '1_alok.csv', '2_file.csv', '3_file2.csv', '4_file3.csv', '5_file4.csv', '6_alok.csv', '7_file.csv', '8_file2.csv', '9_file3.csv']
+2024-11-24 09:59:04,161 - File found and moving the file H:\\test\file4.csv to E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/
+2024-11-24 09:59:04,161 - ['10_file4.csv', '11_alok.csv', '12_file.csv', '13_file2.csv', '14_file3.csv', '15_file4.csv', '16_alok.csv', '17_file.csv', '18_file2.csv', '19_file3.csv', '1_alok.csv', '20_file4.csv', '2_file.csv', '3_file2.csv', '4_file3.csv', '5_file4.csv', '6_alok.csv', '7_file.csv', '8_file2.csv', '9_file3.csv']
+2024-11-24 09:59:04,161 - Archive Function completed.
+2024-11-24 09:59:04,192 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,192 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,192 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,192 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,192 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,192 - 10_file4.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:59:04,192 - Deleted 10_file4.csv after zipping.
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - 11_alok.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:59:04,208 - Deleted 11_alok.csv after zipping.
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - 12_file.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:59:04,208 - Deleted 12_file.csv after zipping.
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - 13_file2.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:59:04,208 - Deleted 13_file2.csv after zipping.
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - 14_file3.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:59:04,208 - Deleted 14_file3.csv after zipping.
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,208 - 15_file4.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:59:04,208 - Deleted 15_file4.csv after zipping.
+2024-11-24 09:59:04,224 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,224 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,224 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,224 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,224 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,224 - 16_alok.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:59:04,224 - Deleted 16_alok.csv after zipping.
+2024-11-24 09:59:04,224 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,224 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,224 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,224 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,224 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,224 - 17_file.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:59:04,224 - Deleted 17_file.csv after zipping.
+2024-11-24 09:59:04,224 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,224 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,224 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,224 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,224 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,224 - 18_file2.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:59:04,224 - Deleted 18_file2.csv after zipping.
+2024-11-24 09:59:04,224 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,224 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,224 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,224 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,224 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,224 - 19_file3.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:59:04,224 - Deleted 19_file3.csv after zipping.
+2024-11-24 09:59:04,239 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - 1_alok.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:59:04,255 - Deleted 1_alok.csv after zipping.
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - 20_file4.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:59:04,255 - Deleted 20_file4.csv after zipping.
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - 2_file.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:59:04,255 - Deleted 2_file.csv after zipping.
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - 3_file2.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:59:04,255 - Deleted 3_file2.csv after zipping.
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - 4_file3.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:59:04,255 - Deleted 4_file3.csv after zipping.
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,255 - 5_file4.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:59:04,255 - Deleted 5_file4.csv after zipping.
+2024-11-24 09:59:04,271 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,271 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,271 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,271 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,271 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,271 - 6_alok.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:59:04,271 - Deleted 6_alok.csv after zipping.
+2024-11-24 09:59:04,271 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,271 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,271 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,271 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,271 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,271 - 7_file.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:59:04,271 - Deleted 7_file.csv after zipping.
+2024-11-24 09:59:04,271 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,271 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,271 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,271 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,271 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,271 - 8_file2.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:59:04,271 - Deleted 8_file2.csv after zipping.
+2024-11-24 09:59:04,271 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,271 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,286 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,286 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,286 - No csv file found in E:/Alok_AWS/Devops_Notes/Python/csv file archive/ExportedFiles/ to zip
+2024-11-24 09:59:04,286 - 9_file3.csv is Zipped into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip.
+2024-11-24 09:59:04,286 - Deleted 9_file3.csv after zipping.
+2024-11-24 09:59:04,286 - All the 15 days old csv files added into E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip
+2024-11-24 09:59:04,286 - Function zip completed
+2024-11-24 09:59:04,773 - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-24 09:59:11,578 - File 'E:/Alok_AWS/Devops_Notes/Python/csv file archive/archivedfiles/archived_csv_files.zip' successfully uploaded to 'csvfilecleanupalok/archived_csv_files_2024-11-24_09-59-03.zip'.
+2024-11-24 09:59:13,391 - Email sent!, Task completed
+2024-11-24 10:09:11,666 - Starting the process to zip old CSV files.
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,666 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,682 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - No CSV file found to archive
+2024-11-24 10:09:11,697 - Archive Function completed.
