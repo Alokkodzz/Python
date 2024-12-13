@@ -1,7 +1,0 @@
-aws dynamodb create-table \
-    --table-name archived_files \
-    --attribute-definitions \
-        AttributeName=file_id,AttributeType=S \
-    --key-schema \
-        AttributeName=file_id,KeyType=HASH \
-    --provisioned-throughput ReadCapacityUnits=5,WriteCapacityUnits=5

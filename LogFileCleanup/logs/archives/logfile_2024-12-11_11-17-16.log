@@ -1,8 +1,0 @@
-2024-12-11 11:11:04,663 - Starting the process to zip old CSV files.
-2024-12-11 11:11:04,681 - Archive Function completed.
-2024-12-11 11:11:04,683 - No csv file found to zip
-2024-12-11 11:11:04,683 - Function zip completed
-2024-12-11 11:11:04,771 - Found credentials in shared credentials file: ~/.aws/credentials
-2024-12-11 11:11:05,041 - SQL file 'E:\Alok_AWS\Devops_Notes\Python\sql\DB_file\archived_files_data.sql' successfully created.
-2024-12-11 11:11:05,043 -  The file 'E:/Alok_AWS/Devops_Notes/Python/sql/archivedfiles/archived_csv_files.zip' was not found.
-2024-12-11 11:11:07,914 - Email sent!!!
