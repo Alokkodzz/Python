@@ -1,0 +1,123 @@
+AU Shift
+02312094 : Imports are in progress for MAP1302 tenant on SB1 from QA team. Rate limiting has been increased to 1Lakh
+"02281984 : Rotate Mobile Manager problem clock cred - PR merged for Staging, need to wait for staging mobile manager version to release , then we need to do the validation and share the credentials with Tilak and then we need to start for production."
+"02301699 : Timesheet Deletion activity - PwCUAT, Support will be performing this, Need to monitor the Infra whenever they start"
+SM-3745 : Make saasa access TJC through REAP - Dheeraj asked to hold this and he will let us know when to start
+"SM-3747 : RDS Minor version upgrade to 13.16 - Memo completed on AP1,NA9 and EU3 Swimlanes. AT completed. Failed OLAP's Triggered manually and got completed for Eu3 ."
+"SM-3496 : Update Machine Images to Windows 2019 FIPS Enabled - Memo rolled back on sb1, sb2, ap1, na3, na4, na7 and EU3 swimlanes. Assigned back to requester"
+SM-3679 : Tenant migration from NA7 to SB1: Test tenant migration completed. Sumo logs disabled on SB1 and NA7 Swimlane. FF comparison done informed to Umakanth.Need to hold the Memo till Naveen confirms.
+"SM-3639 : Removing orphaned schemas from RDS. SB1, SB2, NA7, NA5 and NA9 RDS reboot done. Updated the requester as the validation is not passing."
+"SM-3486 : CharlesRiverLaboratoriesSandbox : Run script to change Project Settings ""Do Not Allow Duplicate"" to Project Names and Codes - Script executed on Sandbox tenant. waiting for requester comformation for Production."
+SM-3561 : Update connection strings and force SSL to RDS in production - Need to hold on prod swimlanes and SO2 unless get the next update from Bradley.
+"SM-3344 : Enable AWS SSM on DBA-JOBS - Staging AmazonEc2RoleforSSM not available, Richard working on this."
+SM-3737 : Increase EventTriggeredScript module thread count to 5 for EU3 - Memo rolled out on EU3. Validation passed. Need to monitor SQS EventTriggeredScript queue and if queue process slowly again we have to increase thread count to 6 or 7.
+"SM-3739 : Create scheduled sumo search to find silent OLAP failures for Capgemini .It runs daily 8.00AM MST and looks for last 4 days data, Once we receive the alert we have to follow Procedure mentioned in SM-3739."
+SM-3755 : IMR-517 - Get detailed RDS logs from EU3-pgsql1 writer - EU3-pgsql1 writer RDS logs Activity completed for today started at 10:45 PM MST Dec 8th ended at 2 AM MST Dec 9. Waiting for mike response.
+"SM-3564 : WBS full project syncs for DXC to update ES docs with taskLevels field, completed upto batch 456 , need to trigger further"
+SM-3741 : Rotate AWS IAM user's access keys - snapshots - created keys and working on this.
+"SM-3736 : SC8-147: Remove deprecated envoy config blocks, Prod stage1 PR approved by SRE, need to wait for few days before merging"
+"SM-3749 : Mobile Push Notifications(MPNS) Firebase JSON API ftd config update in Staging environent SO1 and SO2. MPNS FTD failed, updated the memo."
+"SM-3743 : Run WBS full sync for multiple tenants - need to enable the sumo logs before starting, need to perform on weekend"
+"CII-2468 : alertmanager-cluster are failing to come online on ap1, na3, na4, na6, na7, na8. Escalated"
+"IMR-514 : we have created a PITR backup for imr-514-pitr to debug the issue, PITR instance is deleted."
+"02312262 : Fedramp (NA10) - Rotate OktaSSOUser AWS Access key and Nexpose Scanner SMTP -bradley timeoff for nexpose task and Kashyap busy on okta task, need to follow up with them."
+"FOR THIS AND NEXT WEEK, AFTER PREWARM KEEP THE SWIMLANE UNDER MAINTENACE TO SKIP COOL DOWNS.....MANUALLY COOLDOWN BASED ON THE LOAD,IN WE ARE NOT SURE, CHECK WITH ME(Naveen posted in Ops Tier2 Team)"
+If EU3 PGSQL1 Avg CPU crosses 75% need to call Sreejesh.
+"Increased batch and BGBRS to 6 to process the sb1-wts-TimeTriggeredApprovalScriptTrigger Queue, need to revert once processed"
+WRC 27849-modified-1733729780768 deploy is in progress on Production swimlanes.
+"WRC-27587 deployment completed on So1/So3 email has sent. SO1 bat failed, retried and not Initiated, post Deploy email has sent with note, need to update the email thread once its completed. pinged in SRE group for BAT failure."
+SM-3758 Break Reminder Notification - environmentalsciencetrial01 assigned to DBA.
+Need to do eu3 warm up after deployment.
+SM-3760: Create a prometheus alert for eu3 when pending OLAP triggers accumulate over a threshold PR merged.
+
+
+
+
+
+"02313500 - Requester will check with product team and let us know, ping for the update."
+"02314067 - Manual Slug fix is in progress.
+ Note: need to sanitize the tenant after the restoration."
+02310140 - DBA has stopped the restore for the backup as we observed multiple reboots on readers.Please monitor chat thread for more updates.
+02313737 - need to share the file till 20th dec
+02312217 - Pinged requester and there is no update from client. Check with him for more update.
+02314067 - WBS sync is in-progress monitore it and later trigger Full OLAP
+EU Shift
+WRC 27849-modified-1733729780768 deployment completed on Production swimlanes & SO2. Sign off and post deploy email has sent.
+WRC-27587 deployment completed on So1/So3 email has sent. SO1 bat completed and updated email thread.
+WRC -27857 Deployment is in progress on SB1 & SB2.
+Need to check with shivaramu what is the reason behind to modified the Silent OLAP failure alert.
+02312094 : Imports are in progress for MAP1302 tenant on SB1 from QA team. Rate limiting has been increased to 1Lakh
+"02281984 : Rotate Mobile Manager problem clock cred - PR merged for Staging, need to wait for staging mobile manager version to release , then we need to do the validation and share the credentials with Tilak and then we need to start for production."
+"02301699 : Timesheet Deletion activity - PwCUAT, Support will be performing this, Need to monitor the Infra whenever they start"
+SM-3745 : Make saasa access TJC through REAP - Dheeraj asked to hold this and he will let us know when to start
+"SM-3747 : RDS Minor version upgrade to 13.16 - Memo completed on AP1,NA9 and EU3 Swimlanes. AT completed. Failed OLAP's Triggered manually and got completed for Eu3 ."
+"SM-3496 : Update Machine Images to Windows 2019 FIPS Enabled - Memo rolled back on sb1, sb2, ap1, na3, na4, na7 and EU3 swimlanes. Assigned back to requester"
+SM-3679 : Tenant migration from NA7 to SB1: Test tenant migration completed. Sumo logs disabled on SB1 and NA7 Swimlane. FF comparison done informed to Umakanth.Need to hold the Memo till Naveen confirms.
+"SM-3639 : Removing orphaned schemas from RDS. SB1, SB2, NA7, NA5 and NA9 RDS reboot done. Updated the requester as the validation is not passing."
+"SM-3486 : CharlesRiverLaboratoriesSandbox : Run script to change Project Settings ""Do Not Allow Duplicate"" to Project Names and Codes - Script executed on Sandbox tenant. waiting for requester comformation for Production."
+SM-3561 : Update connection strings and force SSL to RDS in production - Need to hold on prod swimlanes and SO2 unless get the next update from Bradley.
+"SM-3344 : Enable AWS SSM on DBA-JOBS - Staging AmazonEc2RoleforSSM not available, Richard working on this."
+SM-3737 : Increase EventTriggeredScript module thread count to 5 for EU3 - Memo rolled out on EU3. Validation passed. Need to monitor SQS EventTriggeredScript queue and if queue process slowly again we have to increase thread count to 6 or 7.
+"SM-3739 : Create scheduled sumo search to find silent OLAP failures for Capgemini .It runs daily 8.00AM MST and looks for last 4 days data, Once we receive the alert we have to follow Procedure mentioned in SM-3739."
+SM-3755 : IMR-517 - Get detailed RDS logs from EU3-pgsql1 writer - EU3-pgsql1 writer RDS logs Activity completed for today started at 10:45 PM MST Dec 8th ended at 2 AM MST Dec 9. Waiting for mike response.
+"SM-3564 : WBS full project syncs for DXC to update ES docs with taskLevels field, completed upto batch 456 , need to trigger further"
+SM-3741 : Rotate AWS IAM user's access keys - snapshots - created keys and working on this.
+"SM-3736 : SC8-147: Remove deprecated envoy config blocks, Prod stage1 PR approved by SRE, need to wait for few days before merging"
+"SM-3749 : Mobile Push Notifications(MPNS) Firebase JSON API ftd config update in Staging environent SO1 and SO2. MPNS FTD failed, updated the memo."
+"SM-3743 : Run WBS full sync for multiple tenants - need to enable the sumo logs before starting, need to perform on weekend"
+"CII-2468 : alertmanager-cluster are failing to come online on ap1, na3, na4, na6, na7, na8. Escalated"
+"IMR-514 : we have created a PITR backup for imr-514-pitr to debug the issue, PITR instance is deleted."
+"02312262 : Fedramp (NA10) - Rotate OktaSSOUser AWS Access key and Nexpose Scanner SMTP -bradley timeoff for nexpose task and Kashyap busy on okta task, need to follow up with them."
+"FOR THIS AND NEXT WEEK, AFTER PREWARM KEEP THE SWIMLANE UNDER MAINTENACE TO SKIP COOL DOWNS.....MANUALLY COOLDOWN BASED ON THE LOAD,IN WE ARE NOT SURE, CHECK WITH ME(Naveen posted in Ops Tier2 Team)"
+If EU3 PGSQL1 Avg CPU crosses 75% need to call Sreejesh.
+"Increased batch and BGBRS to 6 to process the sb1-wts-TimeTriggeredApprovalScriptTrigger Queue, need to revert once processed"
+SM-3758 Break Reminder Notification - environmentalsciencetrial01 assigned to DBA.
+Need to do eu3 warm up after deployment.
+SM-3760: Create a prometheus alert for eu3 when pending OLAP triggers accumulate over a threshold PR merged.
+
+SM-3746 - Airflow Connectors UI - Add config node in PRD - Quickbooks Sandbox Tenant Support - in progress on staging.
+
+"02313500 - Requester will check with product team and let us know, ping for the update."
+02313737 - need to share the file till 20th dec
+
+NA Shift
+WRC -27857 Deployment is in progress on Production swimlanes
+WRC-27874 Deployment is in progress on SO1 & SO3 swimlanes
+Need to check with shivaramu what is the reason behind to modified the Silent OLAP failure alert.
+02312094 : Imports are in progress for MAP1302 tenant on SB1 from QA team. Rate limiting has been increased to 1Lakh
+"02281984 : Rotate Mobile Manager problem clock cred - PR merged for Staging, need to wait for staging mobile manager version to release , then we need to do the validation and share the credentials with Tilak and then we need to start for production."
+"02301699 : Timesheet Deletion activity - PwCUAT, Support will be performing this, Need to monitor the Infra whenever they start"
+SM-3745 : Make saasa access TJC through REAP - Dheeraj asked to hold this and he will let us know when to start
+"SM-3747 : RDS Minor version upgrade to 13.16 - Memo completed on AP1,NA9 and EU3 Swimlanes. AT completed. Failed OLAP's Triggered manually and got completed for Eu3 ."
+"SM-3496 : Update Machine Images to Windows 2019 FIPS Enabled - Memo rolled back on sb1, sb2, ap1, na3, na4, na7 and EU3 swimlanes. Assigned back to requester"
+SM-3679 : Tenant migration from NA7 to SB1: Test tenant migration completed. Sumo logs disabled on SB1 and NA7 Swimlane. FF comparison done informed to Umakanth.Need to hold the Memo till Naveen confirms.
+"SM-3639 : Removing orphaned schemas from RDS. SB1, SB2, NA7, NA5 and NA9 RDS reboot done. Updated the requester as the validation is not passing."
+"SM-3486 : CharlesRiverLaboratoriesSandbox : Run script to change Project Settings ""Do Not Allow Duplicate"" to Project Names and Codes - Script executed on Sandbox tenant. waiting for requester comformation for Production."
+SM-3561 : Update connection strings and force SSL to RDS in production - Need to hold on prod swimlanes and SO2 unless get the next update from Bradley.
+"SM-3344 : Enable AWS SSM on DBA-JOBS - Staging AmazonEc2RoleforSSM not available, Richard working on this."
+SM-3737 : Increase EventTriggeredScript module thread count to 5 for EU3 - Memo rolled out on EU3. Validation passed. Need to monitor SQS EventTriggeredScript queue and if queue process slowly again we have to increase thread count to 6 or 7.
+"SM-3739 : Create scheduled sumo search to find silent OLAP failures for Capgemini .It runs daily 8.00AM MST and looks for last 4 days data, Once we receive the alert we have to follow Procedure mentioned in SM-3739."
+SM-3755 : IMR-517 - Get detailed RDS logs from EU3-pgsql1 writer - EU3-pgsql1 writer RDS logs Activity completed for today started at 10:45 PM MST Dec 8th ended at 2 AM MST Dec 9. Waiting for mike response.
+"SM-3564 : WBS full project syncs for DXC to update ES docs with taskLevels field, completed upto batch 465 , need to trigger further"
+SM-3741 : Rotate AWS IAM user's access keys - snapshots - created keys and working on this.
+"SM-3736 : SC8-147: Remove deprecated envoy config blocks, Prod stage1 PR approved by SRE, need to wait for few days before merging"
+"SM-3749 : Mobile Push Notifications(MPNS) Firebase JSON API ftd config update in Staging environent SO1 and SO2. MPNS FTD failed, updated the memo."
+"SM-3743 : Run WBS full sync for multiple tenants - need to enable the sumo logs before starting, need to perform on weekend"
+"CII-2468 : alertmanager-cluster are failing to come online on ap1, na3, na4, na6, na7, na8. Escalated"
+"02312262 : Fedramp (NA10) - Rotate OktaSSOUser AWS Access key and Nexpose Scanner SMTP -bradley timeoff for nexpose task and Kashyap busy on okta task, need to follow up with them."
+"FOR THIS AND NEXT WEEK, AFTER PREWARM KEEP THE SWIMLANE UNDER MAINTENACE TO SKIP COOL DOWNS.....MANUALLY COOLDOWN BASED ON THE LOAD,IN WE ARE NOT SURE, CHECK WITH ME(Naveen posted in Ops Tier2 Team)"
+If EU3 PGSQL1 Avg CPU crosses 75% need to call Sreejesh.
+"Increased batch and BGBRS to 6 to process the sb1-wts-TimeTriggeredApprovalScriptTrigger Queue, need to revert once processed"
+SM-3758 Break Reminder Notification - environmentalsciencetrial01 assigned to DBA.
+SM-3760: Create a prometheus alert for eu3 when pending OLAP triggers accumulate over a threshold PR merged. completed Memo closed
+"KPMGUKSandbox is planing for the performance testing , Increased the rate limit for user urn:replicon-tenant:aadf385005d94803ada3339147c747f7:user:630 set to 10,000,000, Need to update the sb2 RDS from 2xlarge to 8xlarge, once completed DBA need to perform the vaccuum and analyze."
+SM-3746 - Airflow Connectors UI - Add config node in PRD - Quickbooks Sandbox Tenant Support - Memo Has been rolled out on staging. Requester side validation pending.
+
+
+
+
+02313737 - need to share the file till 20th dec
+2313966- need to share the file till 20th dec for capg UAT china location
+02312217 - Pinged requester and there is no update from client. Check with him for more update.
+02310140 - DBA has stopped the restore for the backup as we observed multiple reboots on readers.Please monitor chat thread for more updates.
+"02313500 - Requester will check with product team and let us know, ping for the update."
