@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shift Report: EU Shift</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 0;
+      }
+      .container {
+        width: 80%;
+        margin: 20px auto;
+        background-color: #ffffff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      h1, h2 {
+        text-align: center;
+        color: #333;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 15px;
+      }
+      th, td {
+        padding: 10px;
+        border: 1px solid #ddd;
+        text-align: left;
+      }
+      th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+      }
+      .task-section {
+        margin-bottom: 20px;
+      }
+      .footer {
+        text-align: center;
+        font-size: 14px;
+        color: #888;
+        margin-top: 30px;
+      }
+    </style>
+  </head>
+  <body>
+
+    <div class="container">
+      <h1>{sft}</h1>
+      <p><strong>Date:</strong>{DATE}</p>
+
+      <!-- Monitoring Section -->
+      <div class="task-section">
+        <table>
+          <tr>
+            <th>Task</th>
+            <th>Staging</th>
+            <th>Production</th>
+          </tr>
+          <tr>
+            <td>
+              1. Observations in the shift (Xmatters) <br>
+              2. Daily/Weekly (Internal Tasks) <br>
+              3. Check if any new exceptions have occurred in 12 hrs <br>
+              4. Check if the cloud portal is under maintenance for any task <br>
+              5. Check if any Tenant Creation, Refresh or Backup is in progress via Cloud portal <br>
+            </td>
+            <td>NA</td>
+            <td>{CP_P_val}</td>
+            </tr>
+            <tr>
+            <td><strong>Deployment</strong><br><br>
+              1.List / Detail the WRC deployed in respective shifts</td>
+            <td>{deployment_s_val}</td>
+            <td>{deployment_p_val}</td>
+            </tr>
+            <tr>
+            <td>Acceptance Email (Leads Task)</td>
+            <td>NA</td>
+            <td>NA</td>
+            </tr>
+            <tr>
+            <td>Post Deploy Check Email (Leads Task)</td>
+            <td>NA</td>
+            <td>NA</td>
+            </tr>
+            <tr>
+              <td><strong>SaaS MEMO</strong><br><br>
+                1. Update the Memos executed in respective shifts<br>
+                2. If there is a roadblock update the details
+              </td>
+              <td>{SM_S_val}</td>
+              <td>{SM_P_val}</td>
+            </tr>
+            <tr>
+              <td>Lead Task</td>
+              <td>Make Memo is completed, moved to the next stage on SaaS-Memo Dashboard and SaaS Memo Tracker is updated</td>
+              <td>Make Memo is completed, moved to the next stage on SaaS-Memo Dashboard and SaaS Memo Tracker is updated</td>
+            </tr>
+            <tr>
+              <td>
+                QA Memos<br><br>
+                1. Ensure the Memos are executed as per the guidelines<br>
+                2. Validate if the Memos are executed on all swimlanes
+              </td>
+              <td>Done</td>
+              <td>Done</td>
+              <tr>
+                <td><strong>SalesForce Case Updates</strong><br><br>
+                  1. Daily case updates</td>
+                <td>{SF_S_val}</td>
+                <td>{SF_P_val}</td>
+              </tr>
+              <tr>
+                <td><strong>OTHERS</strong><br><br>
+                  1.Other updates</td>
+                <td>{OTHER_S_val}</td>
+                <td>{OTHER_P_val}</td>
+              </tr>
+              <tr>
+                <td>SEV 1 Incidents</td>
+                <td>NA</td>
+                <td>{SEV_1_val}</td>
+              </tr>
+              <tr>
+                <td>Bastion Machine Rotation</td>
+                <td>{BASTION_S_val}</td>
+                <td>{BASTION_P_val}</td>
+              </tr>
+              <tr>
+                <td>Cloud Services Report</td>
+                <td>NA</td>
+                <td>{CP_REPORT_val}</td>
+              </tr>
+              <tr>
+                <td>Redis Memory > 60%</td>
+                <td>{REDIS_S_val}</td>
+                <td>{REDIS_P_val}</td>
+              </tr>
+            </tr>
+          </tr>
+        </table>
+      </div>
+      <div class="footer">
+        <p>End of Report</p>
+      </div>
+    </div>
+
+  </body>
+  </html>

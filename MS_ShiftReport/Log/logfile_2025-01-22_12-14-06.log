@@ -1,0 +1,20 @@
+2025-01-22 06:44:07,826 - Starting NA shift report tool
+2025-01-22 06:44:07,826 - Execute_ShiftReport function triggered
+2025-01-22 06:44:08,763 - read_excel_send_email function executing
+2025-01-22 06:44:10,567 - data found from excel
+2025-01-22 06:44:10,567 - data fetched for deployment production
+2025-01-22 06:44:10,568 - data fetched for deployment staging
+2025-01-22 06:44:10,568 - data fetched for Cloud portal tasks
+2025-01-22 06:44:10,568 - data fetched for saas memo staging
+2025-01-22 06:44:10,568 - data fetched for saas memo production
+2025-01-22 06:44:10,568 - data fetched for sales force staging
+2025-01-22 06:44:10,568 - data fetched for sales force production
+2025-01-22 06:44:10,631 - data fetched for other updates on staging
+2025-01-22 06:44:10,631 - data fetched for other updates on production
+2025-01-22 06:44:10,631 - data fetched for SEV 1 incident for today
+2025-01-22 06:44:10,631 - data fetched for Daily cloud service report
+2025-01-22 06:44:10,631 - data fetched for Bastion rotation on staging
+2025-01-22 06:44:10,632 - data fetched for Bastion rotation on staging
+2025-01-22 06:44:10,632 - data fetched for redis memory on staging
+2025-01-22 06:44:10,632 - data fetched for redis memory on production
+2025-01-22 06:44:12,804 - Error sending email: The security token included in the request is invalid.
